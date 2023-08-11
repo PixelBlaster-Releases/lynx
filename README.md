@@ -1,13 +1,14 @@
 # PixelBlaster-OS for Pixel 7a (lynx)
 
 ## Build Info
-- **PixelBlaster Version:** 6.3
+- **PixelBlaster Version:** 6.4
 - **Android Version:** 13
-- **Security Patch:** July 2023
+- **Security Patch:** August 2023
 - **Kernel:** Stock (5.10.157)
 
 ## **Changelog:**
-- Initial Build
+- Updated proprietary blobs from August stock
+- August Security Patch
 
 ## **Flashing Instructions:**
 
