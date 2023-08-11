@@ -1,12 +1,12 @@
 {
 "response": [
 {
-"datetime": 1689832077,
-"filename": "PixelBlaster-6.3-OFFICIAL-lynx.zip",
-"id": "fd74af24d56ce6f94d13e0bb62bec644", 
+"datetime": 1691733738,
+"filename": "PixelBlaster-6.4-OFFICIAL-lynx.zip",
+"id": "4df6a3782b7ff2bfdc5e5d253d1ced43", 
 "romtype": "OFFICIAL", 
-"size": 2127776662, 
-"url": "https://github.com/PixelBlaster-Releases/lynx/releases/download/v6.3/PixelBlaster-6.3-OFFICIAL-lynx.zip", 
+"size": 2127801996, 
+"url": "https://github.com/PixelBlaster-Releases/lynx/releases/download/v6.3/PixelBlaster-6.4-OFFICIAL-lynx.zip", 
 "version": "6.3"
 }
         ]
